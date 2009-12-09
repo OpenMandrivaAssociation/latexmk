@@ -1,12 +1,12 @@
 %define name	latexmk
-%define version 4.10
+%define version 4.11
 %define release %mkrel 1
 
 Summary:	Perl script for automating LaTeX document compilation
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
-Source0:	%{name}-410.zip
+Source0:	%{name}-411.zip
 License:	GPLv2
 Group:		Publishing
 Url:		http://www.phys.psu.edu/~collins/software/latexmk-jcc/
