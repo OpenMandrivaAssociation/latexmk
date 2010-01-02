@@ -1,5 +1,5 @@
 %define name	latexmk
-%define version 4.11
+%define version 4.12
 %define release %mkrel 1
 
 Summary:	Perl script for automating LaTeX document compilation
