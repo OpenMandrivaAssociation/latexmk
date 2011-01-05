@@ -1,5 +1,5 @@
 %define name	latexmk
-%define version 4.21
+%define version 4.22
 %define srcversion %(echo %{version} | sed -e 's/\\.//g')
 %define release %mkrel 1
 
