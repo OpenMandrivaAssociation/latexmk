@@ -1,7 +1,7 @@
 %define name	latexmk
 %define version 4.30a
 %define srcversion %(echo %{version} | sed -e 's/\\.//g')
-%define release %mkrel 1
+%define release 2
 
 Summary:	Perl script for automating LaTeX document compilation
 Name:		%{name}
