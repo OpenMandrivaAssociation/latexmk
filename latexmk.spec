@@ -7,7 +7,7 @@ Release:	2
 Source0:	http://www.phys.psu.edu/~collins/software/latexmk-jcc/%{name}-%{srcversion}.zip
 License:	GPLv2
 Group:		Publishing
-Url:		http://www.phys.psu.edu/~collins/software/latexmk-jcc/
+Url:		https://www.phys.psu.edu/~collins/software/latexmk-jcc/
 BuildArch:	noarch
 Requires:	perl
 Requires:	tetex-latex
